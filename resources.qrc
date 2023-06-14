@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>user_icon.png</file>
+        <file>store_logo.png</file>
+        <file>game_icon.png</file>
+    </qresource>
+</RCC>
